@@ -141,6 +141,9 @@ background: linear-gradient(top, rgba(229,229,229,1) 0%,rgba(255,255,255,1) 15%)
 	text-decoration: none;
 	display: block;
 }
+.logo a:hover{
+	color: #fff;
+}
 .logo a small{
 	font-size: 50px;
 }
